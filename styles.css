@@ -2,13 +2,14 @@
 
 :root {
     --primary-color: #064e3b;
-    --light-stone: #a8a29e;
+    --light-stone: #e7e5e4;
     --dark-gray: #6B7280;
     --dark-stone: #78716c;
 }
 
 body {
     font-family: 'Montserrat Alternates', sans-serif;
+    margin: 0px;
 }
 
 .container {
