@@ -10,6 +10,7 @@
 body {
     font-family: 'Montserrat Alternates', sans-serif;
     margin: 0px;
+    padding-inline-start: 0px;
 }
 
 .container {
